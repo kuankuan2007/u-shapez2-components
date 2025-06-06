@@ -8,9 +8,21 @@ Admittedly, without extreme compression, the number of platforms used in games w
 
 ## Naming Notations
 
-Each component has a name like 'u-do-something'
+Each component has a name like 'U-Do-Something'
 
 They start with U, words are hyphenated, and the first letter of each word is always capitalized
+
+
+I attempted to make the naming of the components follow the rule of first describing the category and then the details.
+
+Such as:
+
++ `U-Half-Destoryer` rename to `U-Destoryer-Half`
++ `U-Diagonal-Cutter` rename to `U-Cutter-Diagonal`
+
+For the plantform version, the name is prefixed with 'UA-'. They always include foundations in the blueprint
+
+We are trying to orient each component towards the north and label them with their names. If there are any differences, please kindly inform us in time.
 
 ## Design Criterions
 
