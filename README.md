@@ -12,7 +12,6 @@ Each component has a name like 'U-Do-Something'
 
 They start with U, words are hyphenated, and the first letter of each word is always capitalized
 
-
 I attempted to make the naming of the components follow the rule of first describing the category and then the details.
 
 Such as:
